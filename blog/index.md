@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: No blog posts yet.
 excerpt: "An archive of blog posts sorted by date."
 ---
 

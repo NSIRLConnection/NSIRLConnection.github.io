@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: NSIRLConnection
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description:  "Still looking for that NSIRLCache."
+logo: profileImage.jpg
 search: true
 url: 
 
@@ -32,16 +32,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Michael Yau
+  avatar: profileImage.jpg
+  email: contact@michaelyau.com
   disqus-shortname:
-  twitter: #username
+  twitter: #NSIRLConnection
   facebook: #username
-  github: #username
+  github: #NSIRLConnection
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: #yaumichael
+  instagram: #NSIRLConnection
   flickr: #username
   tumblr: #username
   google:
